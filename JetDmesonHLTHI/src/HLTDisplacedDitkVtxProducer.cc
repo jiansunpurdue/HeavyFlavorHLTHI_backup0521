@@ -113,7 +113,7 @@ void HLTDisplacedDitkVtxProducer::produce(edm::Event& iEvent, const edm::EventSe
 	{
 		TrackRefVector tracks = it->second;
 		const RefToBase<reco::Jet> jet = it->first;
-		cout << " jet pt: " << jet->pt() << "  eta: " << jet->eta() << "  phi: " << jet->phi() << endl;
+//		cout << " jet pt: " << jet->pt() << "  eta: " << jet->eta() << "  phi: " << jet->phi() << endl;
 
 		//     math::XYZVector jetMomentum = it->first->momentum();
 		TLorentzVector ka,pi,trackpair;
@@ -134,9 +134,7 @@ void HLTDisplacedDitkVtxProducer::produce(edm::Event& iEvent, const edm::EventSe
 				ka.SetPtEtaPhiM(track_kaon.pt(), track_kaon.eta(), track_kaon.phi(), MKAON);
 				trackpair = ka + pi;
 
-				if( trackpair.Pt() < 20.0 )  continue;
-
-                cout << "trackpair pt: " << trackpair.Pt() << "  pion pt: " << track_pion.pt() << "   kaon pt: " << track_kaon.pt() << endl;
+//                cout << "trackpair pt: " << trackpair.Pt() << "  pion pt: " << track_pion.pt() << "   kaon pt: " << track_kaon.pt() << endl;
 
 				if (  trackpair.M() <  minInvMass_ || trackpair.M() >   maxInvMass_) continue;
 				if ( trackpair.Pt() < minPtPair_)     continue;
