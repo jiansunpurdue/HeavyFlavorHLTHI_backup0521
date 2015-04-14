@@ -1,0 +1,1246 @@
+# Conditions read from  CMS_CONDITIONS  via FrontierProd 
+13-Apr-2015 21:29:11 EDT  Initiating request to open file file:./step3_RAW2DIGI_L1Reco_RECO_test.root
+13-Apr-2015 21:29:14 EDT  Successfully opened file file:./step3_RAW2DIGI_L1Reco_RECO_test.root
+%MSG-w SiStripQuality:   SiStripClusterizerFromRaw:hltSiStripRawToClustersFacility@streamBeginRun  13-Apr-2015 21:29:39 EDT Run: 1
+The cabling should always include the active feds in runInfo and possibly have some morethere are instead 59 feds only active in runInfo
+%MSG
+Begin processing the 1st record. Run 1, Event 174, LumiSection 51 at 13-Apr-2015 21:29:40.800 EDT
+ ***********jet pt: 149.157  eta: -0.564875  phi: *********************0.670703
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.33954   hit: 12  chi2/dof/layer:0.0495861   pterror: 0.00874218
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 48.6354   hit: 13  chi2/dof/layer:0.081511   pterror: 0.0169899
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 3.52423   hit: 13  chi2/dof/layer:0.0464787   pterror: 0.0096584
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.29381   hit: 12  chi2/dof/layer:0.0664311   pterror: 0.00866355
+ ***********jet pt: 120.281  eta: -1.28841  phi: *********************-2.49151
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.31846   hit: 14  chi2/dof/layer:0.0459481   pterror: 0.0147374
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 45.6822   hit: 11  chi2/dof/layer:0.0430992   pterror: 0.0179878
+ kaon pt: 42.6198   hit: 12  chi2/dof/layer:0.0596309   pterror: 0.019465
+  trackpair.Pt: 88.2852  invari mass: 1.90679  trackpair.Eta(): -1.32188
+before vtx fit
+vtx is valid
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 5.28656   hit: 12  chi2/dof/layer:0.0431526   pterror: 0.0136346
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 42.6198   hit: 12  chi2/dof/layer:0.0596309   pterror: 0.019465
+ kaon pt: 45.6822   hit: 11  chi2/dof/layer:0.0430992   pterror: 0.0179878
+  trackpair.Pt: 88.2852  invari mass: 1.89943  trackpair.Eta(): -1.32188
+before vtx fit
+vtx is valid
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.15258   hit: 11  chi2/dof/layer:0.142271   pterror: 0.0136501
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.50034   hit: 14  chi2/dof/layer:0.0680207   pterror: 0.0145561
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.1739   hit: 11  chi2/dof/layer:0.0676608   pterror: 0.0136858
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.65579   hit: 10  chi2/dof/layer:0.235062   pterror: 0.013961
+-----------------  in vertex filter ----------------
+ track 1 pt: 45.6822   track 2 pt: 42.6198
+  vertex chi2: 5.58649
+  vertex prob: 0.0180995
+-----------------  in vertex filter ----------------
+ track 1 pt: 42.6198   track 2 pt: 45.6822
+  vertex chi2: 5.58542
+  vertex prob: 0.0181106
+Begin processing the 2nd record. Run 1, Event 201, LumiSection 51 at 13-Apr-2015 21:29:59.629 EDT
+ ***********jet pt: 164.702  eta: -0.277625  phi: *********************-2.88238
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.91536   hit: 11  chi2/dof/layer:0.0841886   pterror: 0.00860088
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 9.62218   hit: 13  chi2/dof/layer:0.0758311   pterror: 0.00833138
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 20.1774   hit: 13  chi2/dof/layer:0.0859632   pterror: 0.00919675
+ ***********jet pt: 102.881  eta: 1.83222  phi: *********************-0.115297
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 6.96036   hit: 15  chi2/dof/layer:0.0888063   pterror: 0.0180893
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 12.7245   hit: 14  chi2/dof/layer:0.0424069   pterror: 0.0191702
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.40943   hit: 16  chi2/dof/layer:0.0480278   pterror: 0.0175642
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.6593   hit: 11  chi2/dof/layer:0.119428   pterror: 0.0231715
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 3.11984   hit: 14  chi2/dof/layer:0.04129   pterror: 0.0153694
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 18.7727   hit: 14  chi2/dof/layer:0.132305   pterror: 0.0183919
+Begin processing the 3rd record. Run 1, Event 118, LumiSection 63 at 13-Apr-2015 21:30:00.117 EDT
+ ***********jet pt: 93.3298  eta: -1.08279  phi: *********************-2.65493
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 4.91269   hit: 11  chi2/dof/layer:0.0348168   pterror: 0.0130313
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 3.22865   hit: 10  chi2/dof/layer:0.107135   pterror: 0.0122843
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.68994   hit: 11  chi2/dof/layer:0.181692   pterror: 0.0122934
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.29578   hit: 10  chi2/dof/layer:0.205104   pterror: 0.0128703
+Begin processing the 4th record. Run 1, Event 124, LumiSection 63 at 13-Apr-2015 21:30:01.511 EDT
+ ***********jet pt: 154.272  eta: 0.050829  phi: *********************-0.0430235
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 3.59152   hit: 13  chi2/dof/layer:0.045092   pterror: 0.00806393
+ kaon pt: 77.4888   hit: 12  chi2/dof/layer:0.0548271   pterror: 0.014652
+  trackpair.Pt: 80.926  invari mass: 6.07056  trackpair.Eta(): 0.0317981
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 3.14363   hit: 13  chi2/dof/layer:0.0577201   pterror: 0.00774944
+ kaon pt: 77.4888   hit: 12  chi2/dof/layer:0.0548271   pterror: 0.014652
+  trackpair.Pt: 80.522  invari mass: 4.58954  trackpair.Eta(): 0.0188635
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.21937   hit: 12  chi2/dof/layer:0.127021   pterror: 0.00767425
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.43405   hit: 12  chi2/dof/layer:0.0861828   pterror: 0.00737623
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 9.77382   hit: 12  chi2/dof/layer:0.086024   pterror: 0.00933126
+ kaon pt: 77.4888   hit: 12  chi2/dof/layer:0.0548271   pterror: 0.014652
+  trackpair.Pt: 87.1673  invari mass: 7.1385  trackpair.Eta(): 0.0467209
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 8.07028   hit: 11  chi2/dof/layer:0.0641389   pterror: 0.00748004
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 77.4888   hit: 12  chi2/dof/layer:0.0548271   pterror: 0.014652
+ kaon pt: 3.59152   hit: 13  chi2/dof/layer:0.045092   pterror: 0.00806393
+  trackpair.Pt: 80.926  invari mass: 6.44517  trackpair.Eta(): 0.0317981
+ kaon pt: 3.14363   hit: 13  chi2/dof/layer:0.0577201   pterror: 0.00774944
+  trackpair.Pt: 80.522  invari mass: 5.1508  trackpair.Eta(): 0.0188635
+ kaon pt: 9.77382   hit: 12  chi2/dof/layer:0.086024   pterror: 0.00933126
+  trackpair.Pt: 87.1673  invari mass: 7.25664  trackpair.Eta(): 0.0467209
+ kaon pt: 2.28898   hit: 12  chi2/dof/layer:0.0654602   pterror: 0.00710075
+  trackpair.Pt: 79.7397  invari mass: 4.04796  trackpair.Eta(): 0.0198347
+ kaon pt: 3.04956   hit: 12  chi2/dof/layer:0.0639373   pterror: 0.00830172
+  trackpair.Pt: 80.5352  invari mass: 4.39478  trackpair.Eta(): 0.0316178
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 3.01056   hit: 13  chi2/dof/layer:0.0751328   pterror: 0.0075979
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 3.4262   hit: 12  chi2/dof/layer:0.103933   pterror: 0.0070177
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.28898   hit: 12  chi2/dof/layer:0.0654602   pterror: 0.00710075
+ kaon pt: 77.4888   hit: 12  chi2/dof/layer:0.0548271   pterror: 0.014652
+  trackpair.Pt: 79.7397  invari mass: 2.98598  trackpair.Eta(): 0.0198347
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.57718   hit: 10  chi2/dof/layer:0.221661   pterror: 0.0092851
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 3.04956   hit: 12  chi2/dof/layer:0.0639373   pterror: 0.00830172
+ kaon pt: 77.4888   hit: 12  chi2/dof/layer:0.0548271   pterror: 0.014652
+  trackpair.Pt: 80.5352  invari mass: 3.71987  trackpair.Eta(): 0.0316178
+ ***********jet pt: 124.373  eta: 1.23915  phi: *********************3.10293
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.27971   hit: 10  chi2/dof/layer:0.0724355   pterror: 0.0130882
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 7.51182   hit: 11  chi2/dof/layer:0.0638048   pterror: 0.0141184
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.03034   hit: 11  chi2/dof/layer:0.0773506   pterror: 0.0137752
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 17.4095   hit: 11  chi2/dof/layer:0.0808295   pterror: 0.0175219
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 16.7516   hit: 10  chi2/dof/layer:0.061425   pterror: 0.0165423
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 3.7426   hit: 10  chi2/dof/layer:0.038281   pterror: 0.0151748
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.93932   hit: 12  chi2/dof/layer:0.100237   pterror: 0.0111797
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.01169   hit: 10  chi2/dof/layer:0.267304   pterror: 0.0156015
+Begin processing the 5th record. Run 1, Event 26, LumiSection 153 at 13-Apr-2015 21:30:09.706 EDT
+ ***********jet pt: 152.651  eta: 0.23638  phi: *********************-0.577862
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.37664   hit: 13  chi2/dof/layer:0.0818424   pterror: 0.00821746
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 29.5083   hit: 13  chi2/dof/layer:0.0658844   pterror: 0.0100535
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.06086   hit: 12  chi2/dof/layer:0.0601572   pterror: 0.00799338
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 5.67619   hit: 12  chi2/dof/layer:0.0716599   pterror: 0.00856864
+ ***********jet pt: 87.0454  eta: -2.23131  phi: *********************2.46223
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.35754   hit: 14  chi2/dof/layer:0.0640587   pterror: 0.0208804
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 11.0974   hit: 14  chi2/dof/layer:0.073365   pterror: 0.0245959
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 7.91915   hit: 12  chi2/dof/layer:0.135789   pterror: 0.0260801
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.22628   hit: 13  chi2/dof/layer:0.090825   pterror: 0.0217982
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.62924   hit: 12  chi2/dof/layer:0.102033   pterror: 0.0225602
+Begin processing the 6th record. Run 1, Event 201, LumiSection 153 at 13-Apr-2015 21:30:10.728 EDT
+ ***********jet pt: 101.83  eta: 0.850498  phi: *********************2.93366
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 3.74436   hit: 12  chi2/dof/layer:0.0892357   pterror: 0.00962864
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.79088   hit: 11  chi2/dof/layer:0.0520121   pterror: 0.0138138
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 7.66599   hit: 11  chi2/dof/layer:0.0780785   pterror: 0.0143737
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 4.78972   hit: 13  chi2/dof/layer:0.0572752   pterror: 0.010942
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 3.99758   hit: 12  chi2/dof/layer:0.0543626   pterror: 0.0117755
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 21.5033   hit: 11  chi2/dof/layer:0.0582892   pterror: 0.0130235
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 19.5333   hit: 12  chi2/dof/layer:0.0668577   pterror: 0.0115115
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.74667   hit: 11  chi2/dof/layer:0.0525736   pterror: 0.0105827
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.70792   hit: 13  chi2/dof/layer:0.101206   pterror: 0.00871099
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 3.59713   hit: 12  chi2/dof/layer:0.0477273   pterror: 0.00988145
+Begin processing the 7th record. Run 1, Event 1, LumiSection 87 at 13-Apr-2015 21:30:11.101 EDT
+ ***********jet pt: 103.459  eta: 0.328811  phi: *********************-2.62385
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.32272   hit: 13  chi2/dof/layer:0.0291449   pterror: 0.00715839
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 7.4649   hit: 12  chi2/dof/layer:0.0445946   pterror: 0.00851812
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 5.08613   hit: 13  chi2/dof/layer:0.0601909   pterror: 0.0091754
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.05834   hit: 13  chi2/dof/layer:0.0751571   pterror: 0.00803382
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 12.1589   hit: 12  chi2/dof/layer:0.0519051   pterror: 0.00992933
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.35339   hit: 13  chi2/dof/layer:0.0417909   pterror: 0.00741167
+ ***********jet pt: 83.6348  eta: 0.44635  phi: *********************0.434606
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 3.88227   hit: 12  chi2/dof/layer:0.0796832   pterror: 0.00786926
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 11.9287   hit: 12  chi2/dof/layer:0.0554829   pterror: 0.0096453
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 25.0876   hit: 10  chi2/dof/layer:0.0851005   pterror: 0.0104648
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 3.3633   hit: 11  chi2/dof/layer:0.0435641   pterror: 0.00872686
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.23442   hit: 10  chi2/dof/layer:0.0519619   pterror: 0.00779688
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 17.0882   hit: 11  chi2/dof/layer:0.198057   pterror: 0.00974023
+Begin processing the 8th record. Run 1, Event 10, LumiSection 87 at 13-Apr-2015 21:30:12.058 EDT
+ ***********jet pt: 139.719  eta: -1.24615  phi: *********************2.60278
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.06195   hit: 12  chi2/dof/layer:0.06107   pterror: 0.00962678
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 10.8857   hit: 11  chi2/dof/layer:0.0560808   pterror: 0.0152447
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 12.6109   hit: 11  chi2/dof/layer:0.0787908   pterror: 0.0163506
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 9.26495   hit: 11  chi2/dof/layer:0.0850211   pterror: 0.0150358
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 3.42438   hit: 11  chi2/dof/layer:0.088062   pterror: 0.0142073
+ ***********jet pt: 108.511  eta: -1.16631  phi: *********************-0.316539
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 3.04404   hit: 10  chi2/dof/layer:0.0578828   pterror: 0.0111884
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.55026   hit: 11  chi2/dof/layer:0.0826114   pterror: 0.0150919
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.00115   hit: 11  chi2/dof/layer:0.035478   pterror: 0.013578
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.07398   hit: 12  chi2/dof/layer:0.0421207   pterror: 0.0121237
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 26.8445   hit: 11  chi2/dof/layer:0.0537115   pterror: 0.0150724
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.11638   hit: 12  chi2/dof/layer:0.100784   pterror: 0.0132266
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.68026   hit: 11  chi2/dof/layer:0.080134   pterror: 0.0142333
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.02263   hit: 10  chi2/dof/layer:0.219105   pterror: 0.0104928
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 29.9897   hit: 10  chi2/dof/layer:0.121742   pterror: 0.0189943
+Begin processing the 9th record. Run 1, Event 174, LumiSection 87 at 13-Apr-2015 21:30:16.170 EDT
+ ***********jet pt: 84.197  eta: 2.21815  phi: *********************-1.51266
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 3.28536   hit: 12  chi2/dof/layer:0.0580901   pterror: 0.022851
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 3.00637   hit: 14  chi2/dof/layer:0.0605888   pterror: 0.0168022
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 14.7513   hit: 11  chi2/dof/layer:0.073764   pterror: 0.0236238
+Begin processing the 10th record. Run 1, Event 265, LumiSection 87 at 13-Apr-2015 21:30:18.770 EDT
+ ***********jet pt: 134.461  eta: -1.61583  phi: *********************-0.0644114
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 51.5679   hit: 15  chi2/dof/layer:0.114288   pterror: 0.0187576
+ kaon pt: 35.1228   hit: 15  chi2/dof/layer:0.057108   pterror: 0.0175054
+  trackpair.Pt: 86.6747  invari mass: 1.84603  trackpair.Eta(): -1.62947
+before vtx fit
+vtx is valid
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 35.1228   hit: 15  chi2/dof/layer:0.057108   pterror: 0.0175054
+ kaon pt: 51.5679   hit: 15  chi2/dof/layer:0.114288   pterror: 0.0187576
+  trackpair.Pt: 86.6747  invari mass: 1.7978  trackpair.Eta(): -1.62947
+before vtx fit
+vtx is valid
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 6.60063   hit: 14  chi2/dof/layer:0.102315   pterror: 0.0151414
+ ***********jet pt: 94.8068  eta: -0.40796  phi: *********************3.13682
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 4.29576   hit: 13  chi2/dof/layer:0.0856397   pterror: 0.00868194
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.6335   hit: 13  chi2/dof/layer:0.0573935   pterror: 0.00858414
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 19.0829   hit: 13  chi2/dof/layer:0.0563282   pterror: 0.00890758
+-----------------  in vertex filter ----------------
+ track 1 pt: 51.5679   track 2 pt: 35.1228
+  vertex chi2: 8.84842
+-----------------  in vertex filter ----------------
+ track 1 pt: 35.1228   track 2 pt: 51.5679
+  vertex chi2: 8.84862
+Begin processing the 11th record. Run 1, Event 1, LumiSection 105 at 13-Apr-2015 21:30:19.382 EDT
+ ***********jet pt: 100.473  eta: -0.825674  phi: *********************-1.66465
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.60227   hit: 10  chi2/dof/layer:0.0303114   pterror: 0.0141635
+ kaon pt: 61.474   hit: 10  chi2/dof/layer:0.0808839   pterror: 0.034327
+  trackpair.Pt: 64.0443  invari mass: 4.33864  trackpair.Eta(): -0.88022
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 8.76618   hit: 13  chi2/dof/layer:0.036709   pterror: 0.0105032
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 61.474   hit: 10  chi2/dof/layer:0.0808839   pterror: 0.034327
+ kaon pt: 2.60227   hit: 10  chi2/dof/layer:0.0303114   pterror: 0.0141635
+  trackpair.Pt: 64.0443  invari mass: 4.79828  trackpair.Eta(): -0.88022
+Begin processing the 12th record. Run 1, Event 10, LumiSection 105 at 13-Apr-2015 21:30:19.545 EDT
+Begin processing the 13th record. Run 1, Event 145, LumiSection 105 at 13-Apr-2015 21:30:19.712 EDT
+ ***********jet pt: 150.788  eta: 1.5157  phi: *********************2.05562
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 10.6453   hit: 14  chi2/dof/layer:0.0283956   pterror: 0.0152801
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 7.24576   hit: 12  chi2/dof/layer:0.0631838   pterror: 0.0143655
+ ***********jet pt: 88.0454  eta: 0.779254  phi: *********************-1.63731
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 19.1443   hit: 13  chi2/dof/layer:0.0528198   pterror: 0.0100888
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.77747   hit: 13  chi2/dof/layer:0.0769729   pterror: 0.00927586
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 8.09516   hit: 13  chi2/dof/layer:0.0960345   pterror: 0.0107172
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 3.75292   hit: 13  chi2/dof/layer:0.0569782   pterror: 0.00897066
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 28.8283   hit: 13  chi2/dof/layer:0.0743852   pterror: 0.0100227
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 4.11374   hit: 12  chi2/dof/layer:0.0410442   pterror: 0.0102992
+Begin processing the 14th record. Run 1, Event 174, LumiSection 105 at 13-Apr-2015 21:30:19.888 EDT
+ ***********jet pt: 126.882  eta: -2.09975  phi: *********************1.8906
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 13.1731   hit: 14  chi2/dof/layer:0.0317531   pterror: 0.0209546
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.05548   hit: 15  chi2/dof/layer:0.0508453   pterror: 0.0198247
+Begin processing the 15th record. Run 1, Event 308, LumiSection 105 at 13-Apr-2015 21:30:20.081 EDT
+ ***********jet pt: 153.014  eta: 1.48571  phi: *********************3.05745
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 10.2641   hit: 13  chi2/dof/layer:0.0913685   pterror: 0.0138386
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 4.68535   hit: 12  chi2/dof/layer:0.0584704   pterror: 0.0135589
+ ***********jet pt: 91.282  eta: 0.991639  phi: *********************0.7301
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 5.42054   hit: 10  chi2/dof/layer:0.0593906   pterror: 0.0132871
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 5.07228   hit: 11  chi2/dof/layer:0.0466081   pterror: 0.011121
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 3.45441   hit: 10  chi2/dof/layer:0.0247465   pterror: 0.0145382
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 7.16473   hit: 11  chi2/dof/layer:0.0673216   pterror: 0.0131013
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 18.1574   hit: 11  chi2/dof/layer:0.0804247   pterror: 0.0156121
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 6.19545   hit: 12  chi2/dof/layer:0.0615684   pterror: 0.0103404
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 6.33111   hit: 13  chi2/dof/layer:0.102834   pterror: 0.00970802
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 3.68763   hit: 10  chi2/dof/layer:0.0922002   pterror: 0.0115208
+Begin processing the 16th record. Run 1, Event 10, LumiSection 160 at 13-Apr-2015 21:30:20.256 EDT
+ ***********jet pt: 127.588  eta: -1.2645  phi: *********************0.389332
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.12598   hit: 13  chi2/dof/layer:0.0480125   pterror: 0.011537
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 21.7557   hit: 11  chi2/dof/layer:0.0413265   pterror: 0.0163755
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 5.12801   hit: 11  chi2/dof/layer:0.0442705   pterror: 0.0155244
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.92521   hit: 12  chi2/dof/layer:0.0718578   pterror: 0.0101071
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 11.3444   hit: 11  chi2/dof/layer:0.0389025   pterror: 0.0149924
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 28.237   hit: 12  chi2/dof/layer:0.0853173   pterror: 0.01851
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 5.43844   hit: 11  chi2/dof/layer:0.030897   pterror: 0.0133941
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.87596   hit: 10  chi2/dof/layer:0.0821981   pterror: 0.0131039
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.46051   hit: 13  chi2/dof/layer:0.0437331   pterror: 0.0151256
+Begin processing the 17th record. Run 1, Event 201, LumiSection 160 at 13-Apr-2015 21:30:22.616 EDT
+ ***********jet pt: 118.127  eta: -2.13523  phi: *********************-0.750816
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.09665   hit: 12  chi2/dof/layer:0.0631661   pterror: 0.0199987
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 4.30817   hit: 14  chi2/dof/layer:0.0397693   pterror: 0.0208317
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 21.1199   hit: 13  chi2/dof/layer:0.0716736   pterror: 0.025771
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 3.48671   hit: 13  chi2/dof/layer:0.21804   pterror: 0.020403
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.38641   hit: 12  chi2/dof/layer:0.21331   pterror: 0.0183805
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.17368   hit: 13  chi2/dof/layer:0.0927142   pterror: 0.0175603
+Begin processing the 18th record. Run 1, Event 308, LumiSection 160 at 13-Apr-2015 21:30:25.451 EDT
+ ***********jet pt: 209.445  eta: 0.402211  phi: *********************2.5515
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 4.87211   hit: 13  chi2/dof/layer:0.0550832   pterror: 0.00847815
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 18.8067   hit: 13  chi2/dof/layer:0.0914595   pterror: 0.00913842
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 7.52212   hit: 12  chi2/dof/layer:0.0923689   pterror: 0.00913511
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 11.3805   hit: 14  chi2/dof/layer:0.0572811   pterror: 0.0103099
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 6.23408   hit: 13  chi2/dof/layer:0.0535733   pterror: 0.00859699
+Begin processing the 19th record. Run 1, Event 1, LumiSection 183 at 13-Apr-2015 21:30:26.271 EDT
+ ***********jet pt: 279.173  eta: -1.18917  phi: *********************1.73355
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.26692   hit: 10  chi2/dof/layer:0.118324   pterror: 0.0120618
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 94.9968   hit: 10  chi2/dof/layer:0.0310773   pterror: 0.0259057
+ ***********jet pt: 265.383  eta: 0.757345  phi: *********************-1.87412
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 7.08065   hit: 13  chi2/dof/layer:0.052001   pterror: 0.00932741
+ kaon pt: 56.2465   hit: 11  chi2/dof/layer:0.0486336   pterror: 0.0183282
+  trackpair.Pt: 63.2586  invari mass: 3.04878  trackpair.Eta(): 0.814471
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 49.0371   hit: 10  chi2/dof/layer:0.115915   pterror: 0.0184274
+ kaon pt: 56.2465   hit: 11  chi2/dof/layer:0.0486336   pterror: 0.0183282
+  trackpair.Pt: 105.283  invari mass: 1.81382  trackpair.Eta(): 0.796833
+before vtx fit
+vtx is valid
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 14.1941   hit: 13  chi2/dof/layer:0.0538764   pterror: 0.00948871
+ kaon pt: 56.2465   hit: 11  chi2/dof/layer:0.0486336   pterror: 0.0183282
+  trackpair.Pt: 70.4359  invari mass: 1.51989  trackpair.Eta(): 0.803523
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.53016   hit: 12  chi2/dof/layer:0.0462194   pterror: 0.00905294
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 10.687   hit: 12  chi2/dof/layer:0.0643336   pterror: 0.0112101
+ kaon pt: 56.2465   hit: 11  chi2/dof/layer:0.0486336   pterror: 0.0183282
+  trackpair.Pt: 66.6773  invari mass: 6.41188  trackpair.Eta(): 0.831054
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 56.2465   hit: 11  chi2/dof/layer:0.0486336   pterror: 0.0183282
+ kaon pt: 7.08065   hit: 13  chi2/dof/layer:0.052001   pterror: 0.00932741
+  trackpair.Pt: 63.2586  invari mass: 3.31985  trackpair.Eta(): 0.814471
+ kaon pt: 49.0371   hit: 10  chi2/dof/layer:0.115915   pterror: 0.0184274
+  trackpair.Pt: 105.283  invari mass: 1.83333  trackpair.Eta(): 0.796833
+before vtx fit
+vtx is valid
+ kaon pt: 14.1941   hit: 13  chi2/dof/layer:0.0538764   pterror: 0.00948871
+  trackpair.Pt: 70.4359  invari mass: 1.77958  trackpair.Eta(): 0.803523
+before vtx fit
+vtx is valid
+ kaon pt: 10.687   hit: 12  chi2/dof/layer:0.0643336   pterror: 0.0112101
+  trackpair.Pt: 66.6773  invari mass: 6.49338  trackpair.Eta(): 0.831054
+ ***********jet pt: 96.4089  eta: -0.587291  phi: *********************0.164087
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 3.20577   hit: 12  chi2/dof/layer:0.111784   pterror: 0.0080268
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.27918   hit: 13  chi2/dof/layer:0.0705831   pterror: 0.00938722
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.1633   hit: 12  chi2/dof/layer:0.0988204   pterror: 0.0111961
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 6.9401   hit: 12  chi2/dof/layer:0.122095   pterror: 0.00988365
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 5.07616   hit: 10  chi2/dof/layer:0.0875752   pterror: 0.00993906
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 3.44722   hit: 11  chi2/dof/layer:0.115043   pterror: 0.00979605
+-----------------  in vertex filter ----------------
+ track 1 pt: 49.0371   track 2 pt: 56.2465
+  vertex chi2: 1.61721
+  vertex prob: 0.203482
+  vertex cos alpha: 1
+  vertex decay length sig: 2.04515
+-----------------  in vertex filter ----------------
+ track 1 pt: 56.2465   track 2 pt: 49.0371
+  vertex chi2: 1.61692
+  vertex prob: 0.203522
+  vertex cos alpha: 1
+  vertex decay length sig: 2.04515
+-----------------  in vertex filter ----------------
+ track 1 pt: 56.2465   track 2 pt: 14.1941
+  vertex chi2: 1.17107
+  vertex prob: 0.279181
+  vertex cos alpha: 0.999997
+  vertex decay length sig: 1.81828
+Begin processing the 20th record. Run 1, Event 124, LumiSection 183 at 13-Apr-2015 21:30:26.442 EDT
+Begin processing the 21st record. Run 1, Event 308, LumiSection 183 at 13-Apr-2015 21:30:26.656 EDT
+Begin processing the 22nd record. Run 1, Event 10, LumiSection 185 at 13-Apr-2015 21:30:26.980 EDT
+ ***********jet pt: 180.751  eta: 1.45649  phi: *********************1.89858
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.11802   hit: 15  chi2/dof/layer:0.0626176   pterror: 0.0153577
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 8.85082   hit: 11  chi2/dof/layer:0.0995767   pterror: 0.0116243
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 4.54962   hit: 12  chi2/dof/layer:0.0388739   pterror: 0.0144765
+Begin processing the 23rd record. Run 1, Event 26, LumiSection 185 at 13-Apr-2015 21:30:27.308 EDT
+Begin processing the 24th record. Run 1, Event 145, LumiSection 185 at 13-Apr-2015 21:30:27.616 EDT
+ ***********jet pt: 82.682  eta: 0.0148103  phi: *********************-0.714665
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 3.46942   hit: 13  chi2/dof/layer:0.0795631   pterror: 0.00682877
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 3.8431   hit: 13  chi2/dof/layer:0.122184   pterror: 0.00666472
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 4.75336   hit: 12  chi2/dof/layer:0.120595   pterror: 0.00797825
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 44.084   hit: 12  chi2/dof/layer:0.052272   pterror: 0.00862185
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.46321   hit: 12  chi2/dof/layer:0.0574367   pterror: 0.0066532
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 7.90566   hit: 13  chi2/dof/layer:0.0426993   pterror: 0.00788658
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 7.10451   hit: 12  chi2/dof/layer:0.203438   pterror: 0.00680577
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 5.556   hit: 13  chi2/dof/layer:0.0583534   pterror: 0.006883
+Begin processing the 25th record. Run 1, Event 358, LumiSection 185 at 13-Apr-2015 21:30:29.045 EDT
+Begin processing the 26th record. Run 1, Event 118, LumiSection 27 at 13-Apr-2015 21:30:29.268 EDT
+ ***********jet pt: 191.098  eta: 0.401541  phi: *********************1.2625
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.57743   hit: 11  chi2/dof/layer:0.068969   pterror: 0.00821108
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 67.7027   hit: 11  chi2/dof/layer:0.18439   pterror: 0.0157777
+Begin processing the 27th record. Run 1, Event 124, LumiSection 27 at 13-Apr-2015 21:30:32.614 EDT
+ ***********jet pt: 83.2461  eta: 1.71701  phi: *********************3.07261
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 13.083   hit: 15  chi2/dof/layer:0.0690765   pterror: 0.0167897
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.6619   hit: 15  chi2/dof/layer:0.0502613   pterror: 0.0143796
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 5.63606   hit: 15  chi2/dof/layer:0.0427825   pterror: 0.0141024
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 6.37245   hit: 14  chi2/dof/layer:0.063929   pterror: 0.0141873
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 10.7612   hit: 15  chi2/dof/layer:0.0309223   pterror: 0.0146822
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 4.99182   hit: 14  chi2/dof/layer:0.0431482   pterror: 0.0135997
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.10048   hit: 14  chi2/dof/layer:0.116587   pterror: 0.0154631
+Begin processing the 28th record. Run 1, Event 358, LumiSection 27 at 13-Apr-2015 21:30:32.746 EDT
+ ***********jet pt: 168.701  eta: -0.488353  phi: *********************-2.19972
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.13797   hit: 13  chi2/dof/layer:0.0707145   pterror: 0.00865946
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 3.24507   hit: 11  chi2/dof/layer:0.0605946   pterror: 0.00891061
+ kaon pt: 68.1987   hit: 10  chi2/dof/layer:0.131945   pterror: 0.0209137
+  trackpair.Pt: 71.3324  invari mass: 5.53552  trackpair.Eta(): -0.496431
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 22.7575   hit: 10  chi2/dof/layer:0.0575921   pterror: 0.0108608
+ kaon pt: 68.1987   hit: 10  chi2/dof/layer:0.131945   pterror: 0.0209137
+  trackpair.Pt: 90.9455  invari mass: 1.74816  trackpair.Eta(): -0.47823
+before vtx fit
+vtx is valid
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.71778   hit: 13  chi2/dof/layer:0.103773   pterror: 0.00828181
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 6.17889   hit: 12  chi2/dof/layer:0.0978864   pterror: 0.00934362
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 68.1987   hit: 10  chi2/dof/layer:0.131945   pterror: 0.0209137
+ kaon pt: 3.24507   hit: 11  chi2/dof/layer:0.0605946   pterror: 0.00891061
+  trackpair.Pt: 71.3324  invari mass: 5.89289  trackpair.Eta(): -0.496431
+ kaon pt: 22.7575   hit: 10  chi2/dof/layer:0.0575921   pterror: 0.0108608
+  trackpair.Pt: 90.9455  invari mass: 1.91318  trackpair.Eta(): -0.47823
+before vtx fit
+vtx is valid
+ kaon pt: 2.06648   hit: 10  chi2/dof/layer:0.0845115   pterror: 0.00836721
+  trackpair.Pt: 70.2651  invari mass: 3.01134  trackpair.Eta(): -0.481608
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.06648   hit: 10  chi2/dof/layer:0.0845115   pterror: 0.00836721
+ kaon pt: 68.1987   hit: 10  chi2/dof/layer:0.131945   pterror: 0.0209137
+  trackpair.Pt: 70.2651  invari mass: 1.24886  trackpair.Eta(): -0.481608
+ ***********jet pt: 81.9699  eta: -0.42741  phi: *********************0.476127
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 9.57032   hit: 11  chi2/dof/layer:0.122205   pterror: 0.00882275
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 3.29312   hit: 11  chi2/dof/layer:0.0578838   pterror: 0.00972379
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.61149   hit: 13  chi2/dof/layer:0.0746917   pterror: 0.0078094
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.00056   hit: 13  chi2/dof/layer:0.0478816   pterror: 0.00681883
+-----------------  in vertex filter ----------------
+ track 1 pt: 22.7575   track 2 pt: 68.1987
+  vertex chi2: 9.8145
+-----------------  in vertex filter ----------------
+ track 1 pt: 68.1987   track 2 pt: 22.7575
+  vertex chi2: 9.81472
+Begin processing the 29th record. Run 1, Event 124, LumiSection 39 at 13-Apr-2015 21:30:34.639 EDT
+Begin processing the 30th record. Run 1, Event 201, LumiSection 39 at 13-Apr-2015 21:30:34.794 EDT
+ ***********jet pt: 161.893  eta: 0.198478  phi: *********************2.6262
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 4.27165   hit: 13  chi2/dof/layer:0.102328   pterror: 0.00850513
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.47342   hit: 11  chi2/dof/layer:0.115239   pterror: 0.00887499
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 5.8021   hit: 12  chi2/dof/layer:0.0999675   pterror: 0.00795709
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.50681   hit: 14  chi2/dof/layer:0.0536582   pterror: 0.0092177
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 18.2605   hit: 14  chi2/dof/layer:0.0500878   pterror: 0.00873291
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 5.47294   hit: 13  chi2/dof/layer:0.0932029   pterror: 0.00703153
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 8.5102   hit: 12  chi2/dof/layer:0.117819   pterror: 0.00834335
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.05444   hit: 13  chi2/dof/layer:0.075013   pterror: 0.00802062
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 5.27082   hit: 13  chi2/dof/layer:0.0630845   pterror: 0.00824553
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 4.95333   hit: 11  chi2/dof/layer:0.0847908   pterror: 0.00967172
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 18.1524   hit: 13  chi2/dof/layer:0.0697788   pterror: 0.00851065
+ ***********jet pt: 145.318  eta: -1.4151  phi: *********************-0.708088
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 4.80105   hit: 11  chi2/dof/layer:0.0525173   pterror: 0.0168144
+ kaon pt: 58.2732   hit: 12  chi2/dof/layer:0.0927788   pterror: 0.0253417
+  trackpair.Pt: 63.0462  invari mass: 2.01363  trackpair.Eta(): -1.40481
+before vtx fit
+vtx is valid
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 34.1896   hit: 11  chi2/dof/layer:0.0431933   pterror: 0.0185455
+ kaon pt: 58.2732   hit: 12  chi2/dof/layer:0.0927788   pterror: 0.0253417
+  trackpair.Pt: 92.4517  invari mass: 1.91822  trackpair.Eta(): -1.41373
+before vtx fit
+vtx is valid
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 6.78618   hit: 12  chi2/dof/layer:0.0616821   pterror: 0.0149064
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 58.2732   hit: 12  chi2/dof/layer:0.0927788   pterror: 0.0253417
+ kaon pt: 4.80105   hit: 11  chi2/dof/layer:0.0525173   pterror: 0.0168144
+  trackpair.Pt: 63.0462  invari mass: 2.60015  trackpair.Eta(): -1.40481
+ kaon pt: 34.1896   hit: 11  chi2/dof/layer:0.0431933   pterror: 0.0185455
+  trackpair.Pt: 92.4517  invari mass: 1.97968  trackpair.Eta(): -1.41373
+before vtx fit
+vtx is valid
+-----------------  in vertex filter ----------------
+ track 1 pt: 4.80105   track 2 pt: 58.2732
+  vertex chi2: 56.8357
+-----------------  in vertex filter ----------------
+ track 1 pt: 34.1896   track 2 pt: 58.2732
+  vertex chi2: 6.19301
+  vertex prob: 0.0128256
+-----------------  in vertex filter ----------------
+ track 1 pt: 58.2732   track 2 pt: 34.1896
+  vertex chi2: 6.19194
+  vertex prob: 0.0128333
+Begin processing the 31st record. Run 1, Event 265, LumiSection 39 at 13-Apr-2015 21:30:35.168 EDT
+ ***********jet pt: 83.9156  eta: -0.850155  phi: *********************0.84893
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.37549   hit: 13  chi2/dof/layer:0.0946086   pterror: 0.0093611
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 12.9696   hit: 12  chi2/dof/layer:0.0628234   pterror: 0.0108628
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 3.48202   hit: 12  chi2/dof/layer:0.105974   pterror: 0.0108737
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.1216   hit: 10  chi2/dof/layer:0.0465411   pterror: 0.0126419
+Begin processing the 32nd record. Run 1, Event 308, LumiSection 39 at 13-Apr-2015 21:30:39.386 EDT
+ ***********jet pt: 82.6188  eta: -0.15224  phi: *********************-0.699212
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 2.9025   hit: 12  chi2/dof/layer:0.0438439   pterror: 0.00681297
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 3.41781   hit: 12  chi2/dof/layer:0.0708846   pterror: 0.0082007
++++++++++++++++++++++++++++++++++++++++++++++
+pion pt: 4.29194   hit: 13  chi2/dof/layer:0.0415273   pterror: 0.00889796
+Begin processing the 33rd record. Run 1, Event 358, LumiSection 39 at 13-Apr-2015 21:30:39.654 EDT
+13-Apr-2015 21:30:39 EDT  Closed file file:./step3_RAW2DIGI_L1Reco_RECO_test.root
+
+TrigReport ---------- Event  Summary ------------
+TrigReport Events total = 33 passed = 26 failed = 7
+
+TrigReport ---------- Path   Summary ------------
+TrigReport  Trig Bit#   Executed     Passed     Failed      Error Name
+TrigReport     1    0         33         26          7          0 HLT_PuAK4CaloJet80_v1
+TrigReport     1    1         33          6         27          0 HLT_PuAK4CaloJet80PlusBJetCSV_v1
+TrigReport     1    2         33          0         33          0 HLT_PuAK4CaloJet80PlusD0_v1
+
+TrigReport -------End-Path   Summary ------------
+TrigReport  Trig Bit#   Executed     Passed     Failed      Error Name
+TrigReport     0    0         33         33          0          0 endjob_step
+TrigReport     0    1         33         33          0          0 RAWSIMoutput_step
+
+TrigReport ---------- Modules in Path: HLT_PuAK4CaloJet80_v1 ------------
+TrigReport  Trig Bit#    Visited     Passed     Failed      Error Name
+TrigReport     1    0         33         33          0          0 hltTriggerType
+TrigReport     1    1         33         33          0          0 hltGtDigis
+TrigReport     1    2         33         33          0          0 hltCaloStage1Digis
+TrigReport     1    3         33         33          0          0 hltCaloStage1LegacyFormatDigis
+TrigReport     1    4         33         33          0          0 hltL1GtObjectMap
+TrigReport     1    5         33         33          0          0 hltL1extraParticles
+TrigReport     1    6         33         33          0          0 hltScalersRawToDigi
+TrigReport     1    7         33         33          0          0 hltOnlineBeamSpot
+TrigReport     1    8         33         33          0          0 hltL1sL1SingleJet16BptxAND
+TrigReport     1    9         33         33          0          0 hltPrePuAK4CaloJet80
+TrigReport     1   10         33         33          0          0 hltEcalDigis
+TrigReport     1   11         33         33          0          0 hltEcalUncalibRecHit
+TrigReport     1   12         33         33          0          0 hltEcalDetIdToBeRecovered
+TrigReport     1   13         33         33          0          0 hltEcalRecHit
+TrigReport     1   14         33         33          0          0 hltHcalDigis
+TrigReport     1   15         33         33          0          0 hltHbhereco
+TrigReport     1   16         33         33          0          0 hltHfreco
+TrigReport     1   17         33         33          0          0 hltHoreco
+TrigReport     1   18         33         33          0          0 hltTowerMakerForAll
+TrigReport     1   19         33         33          0          0 hltPuAK4CaloJets
+TrigReport     1   20         33         33          0          0 hltPuAK4CaloJetsIDPassed
+TrigReport     1   21         33         33          0          0 hltPuAK4CaloJetsCorrectedIDPassed
+TrigReport     1   22         33         26          7          0 hltSinglePuAK4CaloJet80
+TrigReport     1   23         26         26          0          0 hltBoolEnd
+
+TrigReport ---------- Modules in Path: HLT_PuAK4CaloJet80PlusBJetCSV_v1 ------------
+TrigReport  Trig Bit#    Visited     Passed     Failed      Error Name
+TrigReport     1    0         33         33          0          0 hltTriggerType
+TrigReport     1    1         33         33          0          0 hltGtDigis
+TrigReport     1    2         33         33          0          0 hltCaloStage1Digis
+TrigReport     1    3         33         33          0          0 hltCaloStage1LegacyFormatDigis
+TrigReport     1    4         33         33          0          0 hltL1GtObjectMap
+TrigReport     1    5         33         33          0          0 hltL1extraParticles
+TrigReport     1    6         33         33          0          0 hltScalersRawToDigi
+TrigReport     1    7         33         33          0          0 hltOnlineBeamSpot
+TrigReport     1    8         33         33          0          0 hltL1sL1SingleJet16BptxAND
+TrigReport     1    9         33         33          0          0 hltPrePuAK4CaloJet80
+TrigReport     1   10         33         33          0          0 hltPrePuAK4CaloJet80
+TrigReport     1   11         33         33          0          0 hltEcalDigis
+TrigReport     1   12         33         33          0          0 hltEcalUncalibRecHit
+TrigReport     1   13         33         33          0          0 hltEcalDetIdToBeRecovered
+TrigReport     1   14         33         33          0          0 hltEcalRecHit
+TrigReport     1   15         33         33          0          0 hltHcalDigis
+TrigReport     1   16         33         33          0          0 hltHbhereco
+TrigReport     1   17         33         33          0          0 hltHfreco
+TrigReport     1   18         33         33          0          0 hltHoreco
+TrigReport     1   19         33         33          0          0 hltTowerMakerForAll
+TrigReport     1   20         33         33          0          0 hltPuAK4CaloJets
+TrigReport     1   21         33         33          0          0 hltPuAK4CaloJetsIDPassed
+TrigReport     1   22         33         33          0          0 hltPuAK4CaloJetsCorrectedIDPassed
+TrigReport     1   23         33         26          7          0 hltSinglePuAK4CaloJet80
+TrigReport     1   24         26         26          0          0 eta2CaloJets
+TrigReport     1   25         26         26          0          0 hltSelector4JetsDiJet20L1FastJet
+TrigReport     1   26         26         26          0          0 hltSelectorJets20L1FastJet
+TrigReport     1   27         26         26          0          0 reduceJetMult
+TrigReport     1   28         26         26          0          0 jets4bTagger
+TrigReport     1   29         26         26          0          0 hltSiPixelDigisRegForBTag
+TrigReport     1   30         26         26          0          0 hltSiPixelClustersRegForBTag
+TrigReport     1   31         26         26          0          0 hltSiPixelClustersRegForBTagCache
+TrigReport     1   32         26         26          0          0 hltSiPixelRecHitsRegForBTag
+TrigReport     1   33         26         26          0          0 hltPixelLayerPairsRegForBTag
+TrigReport     1   34         26         26          0          0 hltPixelLayerTripletsRegForBTag
+TrigReport     1   35         26         26          0          0 hltSiStripExcludedFEDListProducer
+TrigReport     1   36         26         26          0          0 hltSiStripRawToClustersFacility
+TrigReport     1   37         26         26          0          0 hltSiStripClustersRegForBTag
+TrigReport     1   38         26         26          0          0 hiPixelClusterVertex
+TrigReport     1   39         26         26          0          0 PixelLayerTriplets
+TrigReport     1   40         26         26          0          0 hiPixel3ProtoTracks
+TrigReport     1   41         26         26          0          0 hiPixelMedianVertex
+TrigReport     1   42         26         26          0          0 hiSelectedProtoTracks
+TrigReport     1   43         26         26          0          0 hiPixelAdaptiveVertex
+TrigReport     1   44         26         26          0          0 hiBestAdaptiveVertex
+TrigReport     1   45         26         26          0          0 hiSelectedVertex
+TrigReport     1   46         26         26          0          0 hiPixel3PrimTracks
+TrigReport     1   47         26         26          0          0 hltIter0PFlowPixelSeedsFromPixelTracksForBTag
+TrigReport     1   48         26         26          0          0 hltIter0PFlowCkfTrackCandidatesForBTag
+TrigReport     1   49         26         26          0          0 hltIter0PFlowCtfWithMaterialTracksForBTag
+TrigReport     1   50         26         26          0          0 hltIter0PFlowTrackSelectionHighPurityForBTag
+TrigReport     1   51         26         26          0          0 hltIter1ClustersRefRemovalForBTag
+TrigReport     1   52         26         26          0          0 hltIter1MaskedMeasurementTrackerEventForBTag
+TrigReport     1   53         26         26          0          0 hltIter1PixelLayerTripletsForBTag
+TrigReport     1   54         26         26          0          0 hltIter1PFlowPixelSeedsForBTag
+TrigReport     1   55         26         26          0          0 hltIter1PFlowCkfTrackCandidatesForBTag
+TrigReport     1   56         26         26          0          0 hltIter1PFlowCtfWithMaterialTracksForBTag
+TrigReport     1   57         26         26          0          0 hltIter1PFlowTrackSelectionHighPurityLooseForBTag
+TrigReport     1   58         26         26          0          0 hltIter1PFlowTrackSelectionHighPurityTightForBTag
+TrigReport     1   59         26         26          0          0 hltIter1PFlowTrackSelectionHighPurityForBTag
+TrigReport     1   60         26         26          0          0 hltIter1MergedForBTag
+TrigReport     1   61         26         26          0          0 hltIter2ClustersRefRemovalForBTag
+TrigReport     1   62         26         26          0          0 hltIter2MaskedMeasurementTrackerEventForBTag
+TrigReport     1   63         26         26          0          0 hltIter2PixelLayerPairsForBTag
+TrigReport     1   64         26         26          0          0 hltIter2PFlowPixelSeedsForBTag
+TrigReport     1   65         26         26          0          0 hltIter2PFlowCkfTrackCandidatesForBTag
+TrigReport     1   66         26         26          0          0 hltIter2PFlowCtfWithMaterialTracksForBTag
+TrigReport     1   67         26         26          0          0 hltIter2PFlowTrackSelectionHighPurityForBTag
+TrigReport     1   68         26         26          0          0 hltIter2MergedForBTag
+TrigReport     1   69         26         26          0          0 hltVerticesL3
+TrigReport     1   70         26         26          0          0 hltFastPixelBLifetimeL3Associator
+TrigReport     1   71         26         26          0          0 hltFastPixelBLifetimeL3TagInfos
+TrigReport     1   72         26         26          0          0 hltL3SecondaryVertexTagInfos
+TrigReport     1   73         26         26          0          0 hltL3CombinedSecondaryVertexBJetTags
+TrigReport     1   74         26          6         20          0 hltBLifetimeL3FilterCSV
+TrigReport     1   75          6          6          0          0 hltBoolEnd
+
+TrigReport ---------- Modules in Path: HLT_PuAK4CaloJet80PlusD0_v1 ------------
+TrigReport  Trig Bit#    Visited     Passed     Failed      Error Name
+TrigReport     1    0         33         33          0          0 hltTriggerType
+TrigReport     1    1         33         33          0          0 hltGtDigis
+TrigReport     1    2         33         33          0          0 hltCaloStage1Digis
+TrigReport     1    3         33         33          0          0 hltCaloStage1LegacyFormatDigis
+TrigReport     1    4         33         33          0          0 hltL1GtObjectMap
+TrigReport     1    5         33         33          0          0 hltL1extraParticles
+TrigReport     1    6         33         33          0          0 hltScalersRawToDigi
+TrigReport     1    7         33         33          0          0 hltOnlineBeamSpot
+TrigReport     1    8         33         33          0          0 hltL1sL1SingleJet16BptxAND
+TrigReport     1    9         33         33          0          0 hltPrePuAK4CaloJet80
+TrigReport     1   10         33         33          0          0 hltPrePuAK4CaloJet80
+TrigReport     1   11         33         33          0          0 hltEcalDigis
+TrigReport     1   12         33         33          0          0 hltEcalUncalibRecHit
+TrigReport     1   13         33         33          0          0 hltEcalDetIdToBeRecovered
+TrigReport     1   14         33         33          0          0 hltEcalRecHit
+TrigReport     1   15         33         33          0          0 hltHcalDigis
+TrigReport     1   16         33         33          0          0 hltHbhereco
+TrigReport     1   17         33         33          0          0 hltHfreco
+TrigReport     1   18         33         33          0          0 hltHoreco
+TrigReport     1   19         33         33          0          0 hltTowerMakerForAll
+TrigReport     1   20         33         33          0          0 hltPuAK4CaloJets
+TrigReport     1   21         33         33          0          0 hltPuAK4CaloJetsIDPassed
+TrigReport     1   22         33         33          0          0 hltPuAK4CaloJetsCorrectedIDPassed
+TrigReport     1   23         33         26          7          0 hltSinglePuAK4CaloJet80
+TrigReport     1   24         26         26          0          0 eta2CaloJets
+TrigReport     1   25         26         26          0          0 hltSelector4JetsDiJet20L1FastJet
+TrigReport     1   26         26         26          0          0 hltSelectorJets20L1FastJet
+TrigReport     1   27         26         26          0          0 reduceJetMult
+TrigReport     1   28         26         26          0          0 jets4bTagger
+TrigReport     1   29         26         26          0          0 hltSiPixelDigisRegForBTag
+TrigReport     1   30         26         26          0          0 hltSiPixelClustersRegForBTag
+TrigReport     1   31         26         26          0          0 hltSiPixelClustersRegForBTagCache
+TrigReport     1   32         26         26          0          0 hltSiPixelRecHitsRegForBTag
+TrigReport     1   33         26         26          0          0 hltPixelLayerPairsRegForBTag
+TrigReport     1   34         26         26          0          0 hltPixelLayerTripletsRegForBTag
+TrigReport     1   35         26         26          0          0 hltSiStripExcludedFEDListProducer
+TrigReport     1   36         26         26          0          0 hltSiStripRawToClustersFacility
+TrigReport     1   37         26         26          0          0 hltSiStripClustersRegForBTag
+TrigReport     1   38         26         26          0          0 hiPixelClusterVertex
+TrigReport     1   39         26         26          0          0 PixelLayerTriplets
+TrigReport     1   40         26         26          0          0 hiPixel3ProtoTracks
+TrigReport     1   41         26         26          0          0 hiPixelMedianVertex
+TrigReport     1   42         26         26          0          0 hiSelectedProtoTracks
+TrigReport     1   43         26         26          0          0 hiPixelAdaptiveVertex
+TrigReport     1   44         26         26          0          0 hiBestAdaptiveVertex
+TrigReport     1   45         26         26          0          0 hiSelectedVertex
+TrigReport     1   46         26         26          0          0 hiPixel3PrimTracks
+TrigReport     1   47         26         26          0          0 hltIter0PFlowPixelSeedsFromPixelTracksForBTag
+TrigReport     1   48         26         26          0          0 hltIter0PFlowCkfTrackCandidatesForBTag
+TrigReport     1   49         26         26          0          0 hltIter0PFlowCtfWithMaterialTracksForBTag
+TrigReport     1   50         26         26          0          0 hltIter0PFlowTrackSelectionHighPurityForBTag
+TrigReport     1   51         26         26          0          0 hltIter1ClustersRefRemovalForBTag
+TrigReport     1   52         26         26          0          0 hltIter1MaskedMeasurementTrackerEventForBTag
+TrigReport     1   53         26         26          0          0 hltIter1PixelLayerTripletsForBTag
+TrigReport     1   54         26         26          0          0 hltIter1PFlowPixelSeedsForBTag
+TrigReport     1   55         26         26          0          0 hltIter1PFlowCkfTrackCandidatesForBTag
+TrigReport     1   56         26         26          0          0 hltIter1PFlowCtfWithMaterialTracksForBTag
+TrigReport     1   57         26         26          0          0 hltIter1PFlowTrackSelectionHighPurityLooseForBTag
+TrigReport     1   58         26         26          0          0 hltIter1PFlowTrackSelectionHighPurityTightForBTag
+TrigReport     1   59         26         26          0          0 hltIter1PFlowTrackSelectionHighPurityForBTag
+TrigReport     1   60         26         26          0          0 hltIter1MergedForBTag
+TrigReport     1   61         26         26          0          0 hltIter2ClustersRefRemovalForBTag
+TrigReport     1   62         26         26          0          0 hltIter2MaskedMeasurementTrackerEventForBTag
+TrigReport     1   63         26         26          0          0 hltIter2PixelLayerPairsForBTag
+TrigReport     1   64         26         26          0          0 hltIter2PFlowPixelSeedsForBTag
+TrigReport     1   65         26         26          0          0 hltIter2PFlowCkfTrackCandidatesForBTag
+TrigReport     1   66         26         26          0          0 hltIter2PFlowCtfWithMaterialTracksForBTag
+TrigReport     1   67         26         26          0          0 hltIter2PFlowTrackSelectionHighPurityForBTag
+TrigReport     1   68         26         26          0          0 hltIter2MergedForBTag
+TrigReport     1   69         26         26          0          0 hltVerticesL3
+TrigReport     1   70         26         26          0          0 hltFastPixelBLifetimeL3Associator
+TrigReport     1   71         26         26          0          0 hltDisplacedVtxProducerD0
+TrigReport     1   72         26          0         26          0 hltVertexFilterD0
+TrigReport     1   73          0          0          0          0 hltBoolEnd
+
+TrigReport ------ Modules in End-Path: endjob_step ------------
+TrigReport  Trig Bit#    Visited     Passed     Failed      Error Name
+TrigReport     0    0         33         33          0          0 MEtoEDMConverter
+
+TrigReport ------ Modules in End-Path: RAWSIMoutput_step ------------
+TrigReport  Trig Bit#    Visited     Passed     Failed      Error Name
+TrigReport     0    0         33         33          0          0 RAWSIMoutput
+
+TrigReport ---------- Module Summary ------------
+TrigReport    Visited   Executed     Passed     Failed      Error Name
+TrigReport         99         33         33          0          0 hltTriggerType
+TrigReport         99         33         33          0          0 hltGtDigis
+TrigReport         99         33         33          0          0 hltCaloStage1Digis
+TrigReport         99         33         33          0          0 hltCaloStage1LegacyFormatDigis
+TrigReport         99         33         33          0          0 hltL1GtObjectMap
+TrigReport         99         33         33          0          0 hltL1extraParticles
+TrigReport         99         33         33          0          0 hltScalersRawToDigi
+TrigReport         99         33         33          0          0 hltOnlineBeamSpot
+TrigReport         99         33         33          0          0 hltL1sL1SingleJet16BptxAND
+TrigReport        165         33         33          0          0 hltPrePuAK4CaloJet80
+TrigReport         99         33         33          0          0 hltEcalDigis
+TrigReport         99         33         33          0          0 hltEcalUncalibRecHit
+TrigReport         99         33         33          0          0 hltEcalDetIdToBeRecovered
+TrigReport         99         33         33          0          0 hltEcalRecHit
+TrigReport         99         33         33          0          0 hltHcalDigis
+TrigReport         99         33         33          0          0 hltHbhereco
+TrigReport         99         33         33          0          0 hltHfreco
+TrigReport         99         33         33          0          0 hltHoreco
+TrigReport         99         33         33          0          0 hltTowerMakerForAll
+TrigReport         99         33         33          0          0 hltPuAK4CaloJets
+TrigReport         99         33         33          0          0 hltPuAK4CaloJetsIDPassed
+TrigReport         99         33         33          0          0 hltPuAK4CaloJetsCorrectedIDPassed
+TrigReport         99         33         26          7          0 hltSinglePuAK4CaloJet80
+TrigReport         32         26         26          0          0 hltBoolEnd
+TrigReport         52         26         26          0          0 eta2CaloJets
+TrigReport         52         26         26          0          0 hltSelector4JetsDiJet20L1FastJet
+TrigReport         52         26         26          0          0 hltSelectorJets20L1FastJet
+TrigReport         52         26         26          0          0 reduceJetMult
+TrigReport         52         26         26          0          0 jets4bTagger
+TrigReport         52         26         26          0          0 hltSiPixelDigisRegForBTag
+TrigReport         52         26         26          0          0 hltSiPixelClustersRegForBTag
+TrigReport         52         26         26          0          0 hltSiPixelClustersRegForBTagCache
+TrigReport         52         26         26          0          0 hltSiPixelRecHitsRegForBTag
+TrigReport         52         26         26          0          0 hltPixelLayerPairsRegForBTag
+TrigReport         52         26         26          0          0 hltPixelLayerTripletsRegForBTag
+TrigReport         52         26         26          0          0 hltSiStripExcludedFEDListProducer
+TrigReport         52         26         26          0          0 hltSiStripRawToClustersFacility
+TrigReport         52         26         26          0          0 hltSiStripClustersRegForBTag
+TrigReport         52         26         26          0          0 hiPixelClusterVertex
+TrigReport         52         26         26          0          0 PixelLayerTriplets
+TrigReport         52         26         26          0          0 hiPixel3ProtoTracks
+TrigReport         52         26         26          0          0 hiPixelMedianVertex
+TrigReport         52         26         26          0          0 hiSelectedProtoTracks
+TrigReport         52         26         26          0          0 hiPixelAdaptiveVertex
+TrigReport         52         26         26          0          0 hiBestAdaptiveVertex
+TrigReport         52         26         26          0          0 hiSelectedVertex
+TrigReport         52         26         26          0          0 hiPixel3PrimTracks
+TrigReport         52         26         26          0          0 hltIter0PFlowPixelSeedsFromPixelTracksForBTag
+TrigReport         52         26         26          0          0 hltIter0PFlowCkfTrackCandidatesForBTag
+TrigReport         52         26         26          0          0 hltIter0PFlowCtfWithMaterialTracksForBTag
+TrigReport         52         26         26          0          0 hltIter0PFlowTrackSelectionHighPurityForBTag
+TrigReport         52         26         26          0          0 hltIter1ClustersRefRemovalForBTag
+TrigReport         52         26         26          0          0 hltIter1MaskedMeasurementTrackerEventForBTag
+TrigReport         52         26         26          0          0 hltIter1PixelLayerTripletsForBTag
+TrigReport         52         26         26          0          0 hltIter1PFlowPixelSeedsForBTag
+TrigReport         52         26         26          0          0 hltIter1PFlowCkfTrackCandidatesForBTag
+TrigReport         52         26         26          0          0 hltIter1PFlowCtfWithMaterialTracksForBTag
+TrigReport         52         26         26          0          0 hltIter1PFlowTrackSelectionHighPurityLooseForBTag
+TrigReport         52         26         26          0          0 hltIter1PFlowTrackSelectionHighPurityTightForBTag
+TrigReport         52         26         26          0          0 hltIter1PFlowTrackSelectionHighPurityForBTag
+TrigReport         52         26         26          0          0 hltIter1MergedForBTag
+TrigReport         52         26         26          0          0 hltIter2ClustersRefRemovalForBTag
+TrigReport         52         26         26          0          0 hltIter2MaskedMeasurementTrackerEventForBTag
+TrigReport         52         26         26          0          0 hltIter2PixelLayerPairsForBTag
+TrigReport         52         26         26          0          0 hltIter2PFlowPixelSeedsForBTag
+TrigReport         52         26         26          0          0 hltIter2PFlowCkfTrackCandidatesForBTag
+TrigReport         52         26         26          0          0 hltIter2PFlowCtfWithMaterialTracksForBTag
+TrigReport         52         26         26          0          0 hltIter2PFlowTrackSelectionHighPurityForBTag
+TrigReport         52         26         26          0          0 hltIter2MergedForBTag
+TrigReport         52         26         26          0          0 hltVerticesL3
+TrigReport         52         26         26          0          0 hltFastPixelBLifetimeL3Associator
+TrigReport         26         26         26          0          0 hltFastPixelBLifetimeL3TagInfos
+TrigReport         26         26         26          0          0 hltL3SecondaryVertexTagInfos
+TrigReport         26         26         26          0          0 hltL3CombinedSecondaryVertexBJetTags
+TrigReport         26         26          6         20          0 hltBLifetimeL3FilterCSV
+TrigReport         26         26         26          0          0 hltDisplacedVtxProducerD0
+TrigReport         26         26          0         26          0 hltVertexFilterD0
+TrigReport         33         33         33          0          0 TriggerResults
+TrigReport         33         33         33          0          0 MEtoEDMConverter
+TrigReport         33         33         33          0          0 RAWSIMoutput
+
+TimeReport ---------- Event  Summary ---[sec]----
+TimeReport       event loop CPU/event = 1.778221
+TimeReport      event loop Real/event = 2.394907
+TimeReport     sum Streams Real/event = 1.751270
+TimeReport efficiency CPU/Real/thread = 0.742501
+
+TimeReport ---------- Path   Summary ---[Real sec]----
+TimeReport  per event     per exec  Name
+TimeReport   0.344767     0.344767  HLT_PuAK4CaloJet80_v1
+TimeReport   1.400468     1.400468  HLT_PuAK4CaloJet80PlusBJetCSV_v1
+TimeReport   0.000316     0.000316  HLT_PuAK4CaloJet80PlusD0_v1
+TimeReport  per event     per exec  Name
+
+TimeReport -------End-Path   Summary ---[Real sec]----
+TimeReport  per event     per exec  Name
+TimeReport   0.000007     0.000007  endjob_step
+TimeReport   0.003071     0.003071  RAWSIMoutput_step
+TimeReport  per event     per exec  Name
+
+TimeReport ---------- Modules in Path: HLT_PuAK4CaloJet80_v1 ---[Real sec]----
+TimeReport  per event    per visit  Name
+TimeReport   0.000004     0.000004  hltTriggerType
+TimeReport   0.000533     0.000533  hltGtDigis
+TimeReport   0.000277     0.000277  hltCaloStage1Digis
+TimeReport   0.000130     0.000130  hltCaloStage1LegacyFormatDigis
+TimeReport   0.002317     0.002317  hltL1GtObjectMap
+TimeReport   0.000258     0.000258  hltL1extraParticles
+TimeReport   0.000051     0.000051  hltScalersRawToDigi
+TimeReport   0.036725     0.036725  hltOnlineBeamSpot
+TimeReport   0.000177     0.000177  hltL1sL1SingleJet16BptxAND
+TimeReport   0.000002     0.000002  hltPrePuAK4CaloJet80
+TimeReport   0.010014     0.010014  hltEcalDigis
+TimeReport   0.012125     0.012125  hltEcalUncalibRecHit
+TimeReport   0.001200     0.001200  hltEcalDetIdToBeRecovered
+TimeReport   0.104306     0.104306  hltEcalRecHit
+TimeReport   0.009033     0.009033  hltHcalDigis
+TimeReport   0.013124     0.013124  hltHbhereco
+TimeReport   0.003307     0.003307  hltHfreco
+TimeReport   0.000365     0.000365  hltHoreco
+TimeReport   0.010915     0.010915  hltTowerMakerForAll
+TimeReport   0.116559     0.116559  hltPuAK4CaloJets
+TimeReport   0.000651     0.000651  hltPuAK4CaloJetsIDPassed
+TimeReport   0.000414     0.000414  hltPuAK4CaloJetsCorrectedIDPassed
+TimeReport   0.000036     0.000036  hltSinglePuAK4CaloJet80
+TimeReport   0.000001     0.000002  hltBoolEnd
+
+TimeReport ---------- Modules in Path: HLT_PuAK4CaloJet80PlusBJetCSV_v1 ---[Real sec]----
+TimeReport  per event    per visit  Name
+TimeReport   0.000000     0.000000  hltTriggerType
+TimeReport   0.000000     0.000000  hltGtDigis
+TimeReport   0.000000     0.000000  hltCaloStage1Digis
+TimeReport   0.000000     0.000000  hltCaloStage1LegacyFormatDigis
+TimeReport   0.000000     0.000000  hltL1GtObjectMap
+TimeReport   0.000000     0.000000  hltL1extraParticles
+TimeReport   0.000000     0.000000  hltScalersRawToDigi
+TimeReport   0.000000     0.000000  hltOnlineBeamSpot
+TimeReport   0.000000     0.000000  hltL1sL1SingleJet16BptxAND
+TimeReport   0.000000     0.000000  hltPrePuAK4CaloJet80
+TimeReport   0.000000     0.000000  hltPrePuAK4CaloJet80
+TimeReport   0.000000     0.000000  hltEcalDigis
+TimeReport   0.000000     0.000000  hltEcalUncalibRecHit
+TimeReport   0.000000     0.000000  hltEcalDetIdToBeRecovered
+TimeReport   0.000000     0.000000  hltEcalRecHit
+TimeReport   0.000000     0.000000  hltHcalDigis
+TimeReport   0.000000     0.000000  hltHbhereco
+TimeReport   0.000000     0.000000  hltHfreco
+TimeReport   0.000000     0.000000  hltHoreco
+TimeReport   0.000000     0.000000  hltTowerMakerForAll
+TimeReport   0.000000     0.000000  hltPuAK4CaloJets
+TimeReport   0.000000     0.000000  hltPuAK4CaloJetsIDPassed
+TimeReport   0.000000     0.000000  hltPuAK4CaloJetsCorrectedIDPassed
+TimeReport   0.000000     0.000000  hltSinglePuAK4CaloJet80
+TimeReport   0.000047     0.000060  eta2CaloJets
+TimeReport   0.000016     0.000020  hltSelector4JetsDiJet20L1FastJet
+TimeReport   0.000011     0.000014  hltSelectorJets20L1FastJet
+TimeReport   0.000007     0.000009  reduceJetMult
+TimeReport   0.000006     0.000008  jets4bTagger
+TimeReport   0.005958     0.007562  hltSiPixelDigisRegForBTag
+TimeReport   0.045396     0.057618  hltSiPixelClustersRegForBTag
+TimeReport   0.009560     0.012134  hltSiPixelClustersRegForBTagCache
+TimeReport   0.269464     0.342011  hltSiPixelRecHitsRegForBTag
+TimeReport   0.002378     0.003018  hltPixelLayerPairsRegForBTag
+TimeReport   0.000364     0.000461  hltPixelLayerTripletsRegForBTag
+TimeReport   0.000055     0.000069  hltSiStripExcludedFEDListProducer
+TimeReport   0.000290     0.000367  hltSiStripRawToClustersFacility
+TimeReport   0.004635     0.005883  hltSiStripClustersRegForBTag
+TimeReport   0.086920     0.110321  hiPixelClusterVertex
+TimeReport   0.000968     0.001228  PixelLayerTriplets
+TimeReport   0.024033     0.030503  hiPixel3ProtoTracks
+TimeReport   0.004410     0.005598  hiPixelMedianVertex
+TimeReport   0.000161     0.000204  hiSelectedProtoTracks
+TimeReport   0.011217     0.014237  hiPixelAdaptiveVertex
+TimeReport   0.000020     0.000025  hiBestAdaptiveVertex
+TimeReport   0.000065     0.000083  hiSelectedVertex
+TimeReport   0.073232     0.092949  hiPixel3PrimTracks
+TimeReport   0.006566     0.008333  hltIter0PFlowPixelSeedsFromPixelTracksForBTag
+TimeReport   0.187301     0.237728  hltIter0PFlowCkfTrackCandidatesForBTag
+TimeReport   0.061944     0.078621  hltIter0PFlowCtfWithMaterialTracksForBTag
+TimeReport   0.002555     0.003243  hltIter0PFlowTrackSelectionHighPurityForBTag
+TimeReport   0.000304     0.000386  hltIter1ClustersRefRemovalForBTag
+TimeReport   0.000245     0.000311  hltIter1MaskedMeasurementTrackerEventForBTag
+TimeReport   0.001238     0.001571  hltIter1PixelLayerTripletsForBTag
+TimeReport   0.012911     0.016387  hltIter1PFlowPixelSeedsForBTag
+TimeReport   0.209135     0.265441  hltIter1PFlowCkfTrackCandidatesForBTag
+TimeReport   0.053950     0.068475  hltIter1PFlowCtfWithMaterialTracksForBTag
+TimeReport   0.001714     0.002176  hltIter1PFlowTrackSelectionHighPurityLooseForBTag
+TimeReport   0.001325     0.001682  hltIter1PFlowTrackSelectionHighPurityTightForBTag
+TimeReport   0.003883     0.004928  hltIter1PFlowTrackSelectionHighPurityForBTag
+TimeReport   0.008980     0.011398  hltIter1MergedForBTag
+TimeReport   0.000432     0.000549  hltIter2ClustersRefRemovalForBTag
+TimeReport   0.000286     0.000363  hltIter2MaskedMeasurementTrackerEventForBTag
+TimeReport   0.001274     0.001616  hltIter2PixelLayerPairsForBTag
+TimeReport   0.011707     0.014859  hltIter2PFlowPixelSeedsForBTag
+TimeReport   0.102178     0.129687  hltIter2PFlowCkfTrackCandidatesForBTag
+TimeReport   0.029500     0.037442  hltIter2PFlowCtfWithMaterialTracksForBTag
+TimeReport   0.000372     0.000472  hltIter2PFlowTrackSelectionHighPurityForBTag
+TimeReport   0.004996     0.006342  hltIter2MergedForBTag
+TimeReport   0.144492     0.183394  hltVerticesL3
+TimeReport   0.000199     0.000253  hltFastPixelBLifetimeL3Associator
+TimeReport   0.000335     0.000425  hltFastPixelBLifetimeL3TagInfos
+TimeReport   0.002293     0.002911  hltL3SecondaryVertexTagInfos
+TimeReport   0.010403     0.013203  hltL3CombinedSecondaryVertexBJetTags
+TimeReport   0.000100     0.000127  hltBLifetimeL3FilterCSV
+TimeReport   0.000000     0.000000  hltBoolEnd
+
+TimeReport ---------- Modules in Path: HLT_PuAK4CaloJet80PlusD0_v1 ---[Real sec]----
+TimeReport  per event    per visit  Name
+TimeReport   0.000000     0.000000  hltTriggerType
+TimeReport   0.000000     0.000000  hltGtDigis
+TimeReport   0.000000     0.000000  hltCaloStage1Digis
+TimeReport   0.000000     0.000000  hltCaloStage1LegacyFormatDigis
+TimeReport   0.000000     0.000000  hltL1GtObjectMap
+TimeReport   0.000000     0.000000  hltL1extraParticles
+TimeReport   0.000000     0.000000  hltScalersRawToDigi
+TimeReport   0.000000     0.000000  hltOnlineBeamSpot
+TimeReport   0.000000     0.000000  hltL1sL1SingleJet16BptxAND
+TimeReport   0.000000     0.000000  hltPrePuAK4CaloJet80
+TimeReport   0.000000     0.000000  hltPrePuAK4CaloJet80
+TimeReport   0.000000     0.000000  hltEcalDigis
+TimeReport   0.000000     0.000000  hltEcalUncalibRecHit
+TimeReport   0.000000     0.000000  hltEcalDetIdToBeRecovered
+TimeReport   0.000000     0.000000  hltEcalRecHit
+TimeReport   0.000000     0.000000  hltHcalDigis
+TimeReport   0.000000     0.000000  hltHbhereco
+TimeReport   0.000000     0.000000  hltHfreco
+TimeReport   0.000000     0.000000  hltHoreco
+TimeReport   0.000000     0.000000  hltTowerMakerForAll
+TimeReport   0.000000     0.000000  hltPuAK4CaloJets
+TimeReport   0.000000     0.000000  hltPuAK4CaloJetsIDPassed
+TimeReport   0.000000     0.000000  hltPuAK4CaloJetsCorrectedIDPassed
+TimeReport   0.000000     0.000000  hltSinglePuAK4CaloJet80
+TimeReport   0.000000     0.000000  eta2CaloJets
+TimeReport   0.000000     0.000000  hltSelector4JetsDiJet20L1FastJet
+TimeReport   0.000000     0.000000  hltSelectorJets20L1FastJet
+TimeReport   0.000000     0.000000  reduceJetMult
+TimeReport   0.000000     0.000000  jets4bTagger
+TimeReport   0.000000     0.000000  hltSiPixelDigisRegForBTag
+TimeReport   0.000000     0.000000  hltSiPixelClustersRegForBTag
+TimeReport   0.000000     0.000000  hltSiPixelClustersRegForBTagCache
+TimeReport   0.000000     0.000000  hltSiPixelRecHitsRegForBTag
+TimeReport   0.000000     0.000000  hltPixelLayerPairsRegForBTag
+TimeReport   0.000000     0.000000  hltPixelLayerTripletsRegForBTag
+TimeReport   0.000000     0.000000  hltSiStripExcludedFEDListProducer
+TimeReport   0.000000     0.000000  hltSiStripRawToClustersFacility
+TimeReport   0.000000     0.000000  hltSiStripClustersRegForBTag
+TimeReport   0.000000     0.000000  hiPixelClusterVertex
+TimeReport   0.000000     0.000000  PixelLayerTriplets
+TimeReport   0.000000     0.000000  hiPixel3ProtoTracks
+TimeReport   0.000000     0.000000  hiPixelMedianVertex
+TimeReport   0.000000     0.000000  hiSelectedProtoTracks
+TimeReport   0.000000     0.000000  hiPixelAdaptiveVertex
+TimeReport   0.000000     0.000000  hiBestAdaptiveVertex
+TimeReport   0.000000     0.000000  hiSelectedVertex
+TimeReport   0.000000     0.000000  hiPixel3PrimTracks
+TimeReport   0.000000     0.000000  hltIter0PFlowPixelSeedsFromPixelTracksForBTag
+TimeReport   0.000000     0.000000  hltIter0PFlowCkfTrackCandidatesForBTag
+TimeReport   0.000000     0.000000  hltIter0PFlowCtfWithMaterialTracksForBTag
+TimeReport   0.000000     0.000000  hltIter0PFlowTrackSelectionHighPurityForBTag
+TimeReport   0.000000     0.000000  hltIter1ClustersRefRemovalForBTag
+TimeReport   0.000000     0.000000  hltIter1MaskedMeasurementTrackerEventForBTag
+TimeReport   0.000000     0.000000  hltIter1PixelLayerTripletsForBTag
+TimeReport   0.000000     0.000000  hltIter1PFlowPixelSeedsForBTag
+TimeReport   0.000000     0.000000  hltIter1PFlowCkfTrackCandidatesForBTag
+TimeReport   0.000000     0.000000  hltIter1PFlowCtfWithMaterialTracksForBTag
+TimeReport   0.000000     0.000000  hltIter1PFlowTrackSelectionHighPurityLooseForBTag
+TimeReport   0.000000     0.000000  hltIter1PFlowTrackSelectionHighPurityTightForBTag
+TimeReport   0.000000     0.000000  hltIter1PFlowTrackSelectionHighPurityForBTag
+TimeReport   0.000000     0.000000  hltIter1MergedForBTag
+TimeReport   0.000000     0.000000  hltIter2ClustersRefRemovalForBTag
+TimeReport   0.000000     0.000000  hltIter2MaskedMeasurementTrackerEventForBTag
+TimeReport   0.000000     0.000000  hltIter2PixelLayerPairsForBTag
+TimeReport   0.000000     0.000000  hltIter2PFlowPixelSeedsForBTag
+TimeReport   0.000000     0.000000  hltIter2PFlowCkfTrackCandidatesForBTag
+TimeReport   0.000000     0.000000  hltIter2PFlowCtfWithMaterialTracksForBTag
+TimeReport   0.000000     0.000000  hltIter2PFlowTrackSelectionHighPurityForBTag
+TimeReport   0.000000     0.000000  hltIter2MergedForBTag
+TimeReport   0.000000     0.000000  hltVerticesL3
+TimeReport   0.000000     0.000000  hltFastPixelBLifetimeL3Associator
+TimeReport   0.000250     0.000317  hltDisplacedVtxProducerD0
+TimeReport   0.000038     0.000049  hltVertexFilterD0
+TimeReport   0.000000     0.000000  hltBoolEnd
+TimeReport  per event    per visit  Name
+
+TimeReport ------ Modules in End-Path: endjob_step ---[Real sec]----
+TimeReport  per event    per visit  Name
+TimeReport   0.000001     0.000001  MEtoEDMConverter
+
+TimeReport ------ Modules in End-Path: RAWSIMoutput_step ---[Real sec]----
+TimeReport  per event    per visit  Name
+TimeReport   0.001801     0.001801  RAWSIMoutput
+TimeReport  per event    per visit  Name
+
+TimeReport ---------- Module Summary ---[Real sec]----
+TimeReport  per event     per exec    per visit  Name
+TimeReport   0.000045     0.000045     0.000045  TriggerResults
+TimeReport   0.000004     0.000004     0.000001  hltTriggerType
+TimeReport   0.000533     0.000533     0.000178  hltGtDigis
+TimeReport   0.000277     0.000277     0.000092  hltCaloStage1Digis
+TimeReport   0.000130     0.000130     0.000043  hltCaloStage1LegacyFormatDigis
+TimeReport   0.002317     0.002317     0.000772  hltL1GtObjectMap
+TimeReport   0.000258     0.000258     0.000086  hltL1extraParticles
+TimeReport   0.000051     0.000051     0.000017  hltScalersRawToDigi
+TimeReport   0.036725     0.036725     0.012242  hltOnlineBeamSpot
+TimeReport   0.000177     0.000177     0.000059  hltL1sL1SingleJet16BptxAND
+TimeReport   0.000002     0.000002     0.000000  hltPrePuAK4CaloJet80
+TimeReport   0.010014     0.010014     0.003338  hltEcalDigis
+TimeReport   0.012125     0.012125     0.004042  hltEcalUncalibRecHit
+TimeReport   0.001200     0.001200     0.000400  hltEcalDetIdToBeRecovered
+TimeReport   0.104306     0.104306     0.034769  hltEcalRecHit
+TimeReport   0.009033     0.009033     0.003011  hltHcalDigis
+TimeReport   0.013124     0.013124     0.004375  hltHbhereco
+TimeReport   0.003307     0.003307     0.001102  hltHfreco
+TimeReport   0.000365     0.000365     0.000122  hltHoreco
+TimeReport   0.010915     0.010915     0.003638  hltTowerMakerForAll
+TimeReport   0.116559     0.116559     0.038853  hltPuAK4CaloJets
+TimeReport   0.000651     0.000651     0.000217  hltPuAK4CaloJetsIDPassed
+TimeReport   0.000414     0.000414     0.000138  hltPuAK4CaloJetsCorrectedIDPassed
+TimeReport   0.000036     0.000036     0.000012  hltSinglePuAK4CaloJet80
+TimeReport   0.000001     0.000002     0.000001  hltBoolEnd
+TimeReport   0.000047     0.000060     0.000030  eta2CaloJets
+TimeReport   0.000016     0.000020     0.000010  hltSelector4JetsDiJet20L1FastJet
+TimeReport   0.000011     0.000014     0.000007  hltSelectorJets20L1FastJet
+TimeReport   0.000007     0.000009     0.000005  reduceJetMult
+TimeReport   0.000006     0.000008     0.000004  jets4bTagger
+TimeReport   0.005958     0.007562     0.003781  hltSiPixelDigisRegForBTag
+TimeReport   0.045396     0.057618     0.028809  hltSiPixelClustersRegForBTag
+TimeReport   0.009560     0.012134     0.006067  hltSiPixelClustersRegForBTagCache
+TimeReport   0.269464     0.342011     0.171006  hltSiPixelRecHitsRegForBTag
+TimeReport   0.002378     0.003018     0.001509  hltPixelLayerPairsRegForBTag
+TimeReport   0.000364     0.000461     0.000231  hltPixelLayerTripletsRegForBTag
+TimeReport   0.000055     0.000069     0.000035  hltSiStripExcludedFEDListProducer
+TimeReport   0.000290     0.000367     0.000184  hltSiStripRawToClustersFacility
+TimeReport   0.004635     0.005883     0.002941  hltSiStripClustersRegForBTag
+TimeReport   0.086920     0.110321     0.055161  hiPixelClusterVertex
+TimeReport   0.000968     0.001228     0.000614  PixelLayerTriplets
+TimeReport   0.024033     0.030503     0.015251  hiPixel3ProtoTracks
+TimeReport   0.004410     0.005598     0.002799  hiPixelMedianVertex
+TimeReport   0.000161     0.000204     0.000102  hiSelectedProtoTracks
+TimeReport   0.011217     0.014237     0.007118  hiPixelAdaptiveVertex
+TimeReport   0.000020     0.000025     0.000012  hiBestAdaptiveVertex
+TimeReport   0.000065     0.000083     0.000041  hiSelectedVertex
+TimeReport   0.073232     0.092949     0.046474  hiPixel3PrimTracks
+TimeReport   0.006566     0.008333     0.004167  hltIter0PFlowPixelSeedsFromPixelTracksForBTag
+TimeReport   0.187301     0.237728     0.118864  hltIter0PFlowCkfTrackCandidatesForBTag
+TimeReport   0.061944     0.078621     0.039310  hltIter0PFlowCtfWithMaterialTracksForBTag
+TimeReport   0.002555     0.003243     0.001622  hltIter0PFlowTrackSelectionHighPurityForBTag
+TimeReport   0.000304     0.000386     0.000193  hltIter1ClustersRefRemovalForBTag
+TimeReport   0.000245     0.000311     0.000155  hltIter1MaskedMeasurementTrackerEventForBTag
+TimeReport   0.001238     0.001571     0.000786  hltIter1PixelLayerTripletsForBTag
+TimeReport   0.012911     0.016387     0.008194  hltIter1PFlowPixelSeedsForBTag
+TimeReport   0.209135     0.265441     0.132721  hltIter1PFlowCkfTrackCandidatesForBTag
+TimeReport   0.053950     0.068475     0.034237  hltIter1PFlowCtfWithMaterialTracksForBTag
+TimeReport   0.001714     0.002176     0.001088  hltIter1PFlowTrackSelectionHighPurityLooseForBTag
+TimeReport   0.001325     0.001682     0.000841  hltIter1PFlowTrackSelectionHighPurityTightForBTag
+TimeReport   0.003883     0.004928     0.002464  hltIter1PFlowTrackSelectionHighPurityForBTag
+TimeReport   0.008980     0.011398     0.005699  hltIter1MergedForBTag
+TimeReport   0.000432     0.000549     0.000274  hltIter2ClustersRefRemovalForBTag
+TimeReport   0.000286     0.000363     0.000181  hltIter2MaskedMeasurementTrackerEventForBTag
+TimeReport   0.001274     0.001616     0.000808  hltIter2PixelLayerPairsForBTag
+TimeReport   0.011707     0.014859     0.007430  hltIter2PFlowPixelSeedsForBTag
+TimeReport   0.102178     0.129687     0.064844  hltIter2PFlowCkfTrackCandidatesForBTag
+TimeReport   0.029500     0.037442     0.018721  hltIter2PFlowCtfWithMaterialTracksForBTag
+TimeReport   0.000372     0.000472     0.000236  hltIter2PFlowTrackSelectionHighPurityForBTag
+TimeReport   0.004996     0.006342     0.003171  hltIter2MergedForBTag
+TimeReport   0.144492     0.183394     0.091697  hltVerticesL3
+TimeReport   0.000199     0.000253     0.000126  hltFastPixelBLifetimeL3Associator
+TimeReport   0.000335     0.000425     0.000425  hltFastPixelBLifetimeL3TagInfos
+TimeReport   0.002293     0.002911     0.002911  hltL3SecondaryVertexTagInfos
+TimeReport   0.010403     0.013203     0.013203  hltL3CombinedSecondaryVertexBJetTags
+TimeReport   0.000100     0.000127     0.000127  hltBLifetimeL3FilterCSV
+TimeReport   0.000250     0.000317     0.000317  hltDisplacedVtxProducerD0
+TimeReport   0.000038     0.000049     0.000049  hltVertexFilterD0
+TimeReport   0.000001     0.000001     0.000001  MEtoEDMConverter
+TimeReport   0.001801     0.001801     0.001801  RAWSIMoutput
+TimeReport  per event     per exec    per visit  Name
+
+T---Report end!
+
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 SiStripQuality       -w SiStripClusteriz                       1        1
+    2 fileAction           -s file_close                             1        1
+    3 fileAction           -s file_open                              2        2
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 SiStripQuality       Run: 1                            
+    2 fileAction           PostEndRun                        
+    3 fileAction           pre-events       pre-events       
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+Warning                 1                   1
+System                  3                   3
